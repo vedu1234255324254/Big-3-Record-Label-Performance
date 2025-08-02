@@ -90,22 +90,6 @@ Our Python war machine (`record_label_viz_code_sea.py`) deploys these **devastat
 
 ---
 
-## 🚀 **BECOME A DATA WARRIOR** 🚀
-
-### **Phase 1: Infiltration**
-```bash
-git clone https://github.com/your-username/mic-drop-analysis.git
-cd mic-drop-analysis
-```
-
-### **Phase 2: Activation**
-- Fire up **Google Colab** (your mission control center)
-- Upload `record_label_data_SEA.csv` (your ammunition)
-- Deploy `record_label_viz_code_sea.py` (your weapon)
-- Watch the magic unfold ✨
-
-### **Phase 3: Domination**
-*Run the code. Witness the revelations. Question everything you thought you knew about the music industry.*
 
 ---
 
